@@ -1,6 +1,7 @@
 name: zim_phone_utils_dart
-description: A sample command-line application.
+description: Utilities for validating, formatting, and detecting Zimbabwean mobile and landline phone numbers in Dart.
 version: 1.0.0
+homepage: https://github.com/eisax/zim_phone_utils_dart
 # repository: https://github.com/eisax/zim_phone_utils_dart
 
 environment:
